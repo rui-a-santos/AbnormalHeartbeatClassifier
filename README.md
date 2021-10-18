@@ -1,4 +1,4 @@
-# AbnormalHeartbeatClassifier
+# Abnormal Heartbeat Classifier Project 
 
 Authors: Rui , Matt , Louis. 
 
